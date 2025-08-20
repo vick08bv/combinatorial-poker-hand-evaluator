@@ -1,4 +1,4 @@
-# Generalized Poker Hand Evaluator
+# Combinatorial Poker Hand Evaluator
 
 This project implements a **hand evaluator** that determines both the **type of hand** and a **numeric score** for ranking and comparison.  
 The design is **general, clean, and combinatorial**: it applies to any number of ranks, suits, or hand sizes.
